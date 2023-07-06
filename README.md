@@ -1,1 +1,2 @@
 # odin-recipes
+In this lesson and assignment, I will effectively use what I have learned in the previous lessons to create a basic website, utilizing the titles, lists, and link/image links to portray what is needed.
